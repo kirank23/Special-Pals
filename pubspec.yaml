@@ -1,0 +1,154 @@
+name: special_pals
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flare_flutter: ^1.5.0
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  avatar_glow:
+  after_layout: ^1.0.7+2
+  flutter_launcher_icons: "^0.7.0"
+  rect_getter: ^0.0.1
+  gradient_text: ^1.0.2
+  audioplayers: ^0.12.0
+  flutter_colorpicker: any
+  image_picker: any
+  simple_animations: ^1.3.3
+  like_button: ^0.2.0
+  flutter_swiper: ^1.1.6
+  flutter_shapes: ^0.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/panda.png"
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/redpanda.png
+    - assets/panda.png
+    - assets/Bevis.png
+    - assets/draw.jpg
+    - assets/Story.jpg
+    - assets/Learn.png
+    - assets/dream.jpg
+    - assets/d.png
+    - assets/book.jpg
+    - assets/puzzle.jpg
+    - assets/kids.jpg
+    - assets/colorpalette.png
+    - assets/Bell.mp3
+    - assets/freeh.jpg
+    - assets/shapes.jpg
+    - assets/numbers.jpg
+    - assets/match.jpg
+    - assets/animal.jpg
+    - assets/puzz.png
+    - assets/anim.png
+    - assets/fruit.png
+    - assets/flowers.png
+    - assets/fr1.jpg
+    - assets/fr2.jpg
+    - assets/fr3.jpg
+    - assets/lion.png
+    - assets/toucan.png
+    - assets/chameleon.png
+    - assets/armadillo.png
+    - assets/hippo.png
+    - assets/elephant.png
+    - assets/owl.png
+    - assets/giraffe.png
+    - assets/zebra.png
+    - assets/li.jpg
+    - assets/ti.jpg
+    - assets/be.jpg
+    - assets/ra.jpg
+    - assets/ow.jpg
+    - assets/s1.png
+    - assets/s2.png
+    - assets/s3.png
+    - assets/f.png
+    - assets/lion.mp3
+    - assets/elephant.mp3
+    - assets/zebra.mp3
+    - assets/Armadillo.mp3
+    - assets/Hippopotamus.mp3
+    - assets/Owl.mp3
+    - assets/Toucan.mp3
+    - assets/Giraffe.mp3
+    - assets/Square.png
+    - assets/Triangle.png
+    - assets/Rectangle.png
+    - assets/Circle.png
+
+
+
+
+   # - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: fonts/Nunito-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+    - family: NunitoSans
+      fonts:
+        - asset: fonts/NunitoSans-Regular.ttf
+
+    - family: PTSans
+      fonts:
+        - asset: fonts/PTSans-Regular.ttf
+
+    - family: LoveYaLikeASister
+      fonts:
+        - asset: fonts/LoveYaLikeASister-Regular.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
