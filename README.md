@@ -1,5 +1,5 @@
 # Special-Pals
 
-A Play-Learning app for Special Children
+A Play-Learning app for Special Kids.
 
 
