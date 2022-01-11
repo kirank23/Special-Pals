@@ -16,10 +16,6 @@ Catering to the needs of children with autism, dyslexia, down syndrome, ADHD or 
 Features such as Stories, Drawing, Quizzes and Puzzles are present in this app.
 Provides an easy to use interface with rich animations thereby optimizing User Experience.
 
-A video demonstration of the onboarding and animations
-
-https://user-images.githubusercontent.com/79298507/144173081-1ec4eef5-9716-4eee-9ad7-7c4990ea226c.mp4
-
 https://user-images.githubusercontent.com/79298507/144173174-eb7811a9-52cf-47b3-b411-2d017013db92.mp4
 
 Here are some screen layouts :
